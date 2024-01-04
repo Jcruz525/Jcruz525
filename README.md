@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development and learning about new topics
 - 🌱 I’m currently learning javascript with my buddy Colt Steele
 - 💞️ I’m looking to collaborate on any projects that can help me understand the basics of web development.
-- 📫 If you are looking to reach me I can be contacted on discord: PapiChulo#5183 or email: Jcruz30525@gmail.com
+- 📫 If you are looking to reach me I can be contacted at my email: Jcruz30525@gmail.com
 
 <!---
 Jcruz525/Jcruz525 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
