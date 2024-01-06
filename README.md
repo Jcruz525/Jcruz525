@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Johnny Cruz III 
 - 👀 I’m interested in Web Development and learning about new topics
-- 🌱 I’m currently learning javascript with my buddy Colt Steele
-- 💞️ I’m looking to collaborate on any projects that can help me understand the basics of web development.
+- 🌱 Im currently interested in building web applications using React and Vanilla Javascript
+- 💞️ I’m looking to collaborate on any projects that can help me understand the basics of web development
 - 📫 If you are looking to reach me I can be contacted at my email: Jcruz30525@gmail.com
 
 <!---
