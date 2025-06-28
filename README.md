@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Johnny Cruz III 
-- 🌱 Im currently interested in building web applications using React and Vanilla Javascript
+- 🌱 Im currently interested in building mobile applications using Flutter
 - 💞️ I’m looking to contribute to open source to help other developers while sharpening my own skills
 - 📫 If you are looking to reach me I can be contacted at my email: Jcruz30525@gmail.com
 
